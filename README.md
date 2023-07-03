@@ -1,3 +1,4 @@
+![logo](https://github.com/jaykumar45/jay-kumar/blob/main/6789773%20(1).webp)
 <h1 align="center">Hi 👋, I'm jay kyumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="" alt="coding" with="380" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" />
